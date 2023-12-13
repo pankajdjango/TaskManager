@@ -1,0 +1,25 @@
+# .gitignore
+
+# Django related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+
+.env
+*.env
+venv/
+
+# IDE specific files
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Log files
+*.log
